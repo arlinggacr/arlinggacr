@@ -9,6 +9,7 @@ I'm **Arlingga Cahya Ramdhana**, As a Backend Engineer with 2 years of experienc
 - Enhancing cloud infrastructure and network monitoring dashboards.
 - Architecting scalable microservices with NestJS and TypeScript.
 - Building ETL pipelines for data-driven optimizations.
+- (Soon) Building Crowdfunding Systems or Replace Auction System with Golang
 
 ## 💼 Experience
 
