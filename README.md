@@ -31,4 +31,4 @@ I'm **Arlingga Cahya Ramdhana**, As a Backend Engineer with 2 years of experienc
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=arlinggacr&show_icons=true&theme=dark&hide=prs,issues,contribs&show=reviews&hide_border=true&hide_title=true&bg_color=00000000&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arlinggacr&layout=compact&theme=dark&hide_border=true&hide_title=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arlinggacr&theme=dark)
-[![trophy](https://github-profile-trophy.vercel.app/?username=arlinggacr&theme=darkhub&no-bg=true&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=arlinggacr&theme=darkhub&no-bg=true&no-frame=true&column=2)](https://github.com/ryo-ma/github-profile-trophy)
