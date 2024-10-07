@@ -17,7 +17,7 @@ I'm **Arlingga Cahya Ramdhana**, As a Backend Engineer with 2 years of experienc
   - Led the development of Experience Benchmarking Service and Ookla Fixed Broadband dashboard, utilizing TypeScript and NestJS to enhance network metrics analysis.
 
 - **Backend Engineer (Freelance)** at **PT. Inti Teknologi Bersama** (October 2023 – December 2023)  
-  - Architected the backend for a vehicle service platform, blimobil.id, developing car trading, sales, and spare parts databases.
+  - Architected the backend for a vehicle service platform for blimobil.id, developing car trading, sales, and spare parts databases.
   - Delivered the MVP within two months, focusing on scalability and code maintainability using NestJS and TypeScript.
 
 - **Backend Engineer** at **KMPlus Optima International** (July 2022 – October 2023)  
