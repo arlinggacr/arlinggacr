@@ -9,21 +9,6 @@ I'm **Arlingga Cahya Ramdhana**, As a Backend Engineer with 2 years of experienc
 - Enhancing cloud infrastructure and network monitoring dashboards.
 - Architecting scalable microservices with NestJS and TypeScript.
 - Building ETL pipelines for data-driven optimizations.
-- (Soon) Building Crowdfunding Systems or Replace Auction System with Golang
-
-## 💼 Experience
-
-- **Backend Engineer** at **PT. Neural Technologies Indonesia** (November 2023 – Present)  
-  - Designed and implemented advanced dashboards for network performance and cloud infrastructure optimization, leveraging .NET and cloud technologies.
-  - Led the development of Experience Benchmarking Service and Ookla Fixed Broadband dashboard, utilizing TypeScript and NestJS to enhance network metrics analysis.
-
-- **Backend Engineer (Freelance)** at **PT. Inti Teknologi Bersama** (October 2023 – December 2023)  
-  - Architected the backend for a vehicle service platform for blimobil.id, developing car trading, sales, and spare parts databases.
-  - Delivered the MVP within two months, focusing on scalability and code maintainability using NestJS and TypeScript.
-
-- **Backend Engineer** at **KMPlus Optima International** (July 2022 – October 2023)  
-  - Pioneered the transition from monolithic to microservices architecture, improving scalability and maintainability.
-  - Spearheaded the finalization of a Learning, Talent, and Knowledge App service, enhancing its performance and features.
 
 ## 📫 Reach out to me
 
