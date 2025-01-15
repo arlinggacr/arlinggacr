@@ -5,10 +5,8 @@ I'm **Arlingga Cahya Ramdhana**, As a Backend Engineer with 2 years of experienc
 ## 🌱 What I'm Currently Working On
 
 - Building an auction system with real-time data fetching.
-- Implementing SOLID principles using NestJS and TypeScript.
 - Enhancing cloud infrastructure and network monitoring dashboards.
 - Architecting scalable microservices with NestJS and TypeScript.
-- Building ETL pipelines for data-driven optimizations.
 
 ## 📫 Reach out to me
 
